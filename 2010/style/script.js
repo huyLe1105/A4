@@ -1,10 +1,10 @@
 window.addEventListener('load', () => {
     const messages = [
-        "Chúc 4 em ghệ của lớp A4Luminous luôn xinh đẹp và học giỏi nhaa 🌸",
-        "Chúc cho các em gái luôn giữ được nụ cười trên môi 💖",
-        "Chúc 20/10 của các bạn sẽ thật nhiều tiếng cười hơn nữa 💕",
-        "Mình luôn yêu tất cả mọi người trong đại gia đình nhà Sóc🌼",
-        "20/10 là ngày đặc biệt, nhưng với tui, mỗi ngày đi học và gặp mọi người đều là những ngày đặc biệt với tuii 💫"
+        "Chúc Mẫn nhà tui luôn xinh đẹp và học giỏi nhaa 🌸",
+        "Chúc cho Mẫn luôn giữ được nụ cười trên môi 💖",
+        "Chúc 20/10 của Mẫn sẽ thật nhiều tiếng cười hơn nữa 💕",
+        "Thật lòng, là Mẫn đẹp mừ, cười nhiều vào nhaaa🌼",
+        "20/10 là ngày đặc biệt, nhưng với tui, mỗi ngày được nhắn tin và quan tâm Mẫn đều là những ngày đặc biệt với tuii 💫"
     ];
 
     const msgEl = document.getElementById('message');
@@ -78,3 +78,4 @@ window.addEventListener('load', () => {
         }
     });
 });
+
